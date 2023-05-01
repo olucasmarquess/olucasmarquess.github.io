@@ -11,11 +11,17 @@ title: Web FullStack Developer | Software Engineer
 email: lucas.4.3@gmail.com
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 github_username:  olucasmarquess
 linkedin_username: lucas-marques
+
+# Additional icon links
+additional_links:
+- title: Resume
+  icon: fas fa-user-o
+  url: https://drive.google.com/file/d/10Z_kX_OlsNVyZyWNZNpduu5J1GQxWd51/view
 
 # About Section
 about_profile_image: images/profile.jpg
@@ -26,7 +32,7 @@ about_content: |
 content:
 
   - title: Proficiency Stacks
-    layout: list
+    layout: text
     content: |
       - Ruby on Rails  7 years
       - JavaScript     5 years
@@ -59,6 +65,7 @@ content:
     content: |
       - GraphQL (2022)
       https://github.com/virtualshield/rails-graphql
+
       - Torque Postgres (2021)
       https://github.com/crashtech/torque-postgresql
 
@@ -69,30 +76,18 @@ content:
         title: The Boring Company
         link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
-    content:
-      - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
-    content:
-      - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+        sub_title: Web Full Stack Developer
+        caption: October/2018 - Present
+        description: |
+            I developed and maintained some websites, systems, and applications for companies abroad(I worked with Rails on Rails, GraphQL, Javascript, React, PostgreSQL):
+              -	It`s CheckMate (https://itsacheckmate.com ) (API)
+              -	SJN Journal( https://sjnjournal.com ) (FrontEnd)
+              -	JoinLoop ( https://www.joinloop.com ) (API)
+              -	SubHQ ( https://my.subhq.app/users/sign_in )(Front and Back)
+              -	Enjoy( https://www.enjoy.com ) (Backend)
+              -	Smart Patients ( https://www.smartpatients.com ) (FrontEnd)
+              -	VirtualShield ( https://virtualshield.com ) (Front and Back)
+              -	Lawmatics( https://www.lawmatics.com ) (Backend)
 
     content:
       - layout: left
@@ -116,30 +111,30 @@ content:
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-  # - title: Education # Title for the section
-  #   layout: list # Type of content section (list/text)
-  #   content:
-  #       title: Universidade Municipal de São Caetano do Sul
-  #       caption: 01/2023 - 12/2023
-  #       sub_title: Project Manager[MBA]
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+        title: Universidade Municipal de São Caetano do Sul
+        caption: 01/2023 - 12/2023
+        sub_title: Project Manager[MBA]
 
-  #   content:
-  #       title: Pontifícia Universidade Católica de São Paulo
-  #       caption: 06/2016 - 06/2018
-  #       sub_title: Software Engineering[Post-Graduate]
+    content:
+        title: Pontifícia Universidade Católica de São Paulo
+        caption: 06/2016 - 06/2018
+        sub_title: Software Engineering[Post-Graduate]
 
-  #   content:
-  #       title: Universidade Nove de Julho
-  #       caption: 01/2011 - 12/2014
-  #       sub_title: Game Development[Graduate]
+    content:
+        title: Universidade Nove de Julho
+        caption: 01/2011 - 12/2014
+        sub_title: Game Development[Graduate]
 
   - title: Certification
-    layout: list
+    layout: text
     content: |
       - SFC - Scrum Fundamentals Certified - SCRUMstudy - 04/2023
 
   - title: Languages
-    layout: list
+    layout: text
     content: |
       - Portuguese (Native)
       - English (Full Professional Proficiency)
