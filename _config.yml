@@ -9,13 +9,13 @@ version: 2
 name: Lucas Marques
 title: Web FullStack Developer | Software Engineer
 email: lucas.4.3@gmail.com
-website: github.com/olucasmarquess
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
 github_username:  olucasmarquess
+linkedin_username: lucas-marques
 
 # Additional icon links
 additional_links:
@@ -25,23 +25,24 @@ additional_links:
 # About Section
 about_profile_image: images/profile.jpg
 about_content: |
-  I'm passionate about technology, I believe that programming is much more than just writing codes. I'm 30 years old, I've been working with technology since I was 16. I have eight years of experience in web development, I graduated in Game Development, post-graduated in Software Engineering, and currently I am taking MBA in Project Management. I seek to see the world differently and solve problems quickly, always seeking to understand the needs of my clients. All the different experiences I had made me the unique professional I am today.
+  I'm passionate about technology, I believe that programming is much more than just writing codes.
+  I'm 30 years old, I've been working with technology since I was 16. I have eight years of experience in web development, I graduated in Game Development, post-graduated in Software Engineering, and currently I am taking MBA in Project Management. I seek to see the world differently and solve problems quickly, always seeking to understand the needs of my clients. All the different experiences I had made me the unique professional I am today.
 
 content:
 
   - title: Proficiency Stacks
     layout: text
     content: |
-      - Ruby on Rails | 7 years
-      - JavaScript    | 5 years
-      - React         | 3 years
-      - Node          | 3 years
-      - React Native  | 1 year
-      - HTML5/SASS    | 6 years
-      - Next JS       | 1 year
-      - PostgreSQL    | 4 years
-      - MongoDB       | 2 years
-      - Docker        | 1 year
+      - Ruby on Rails  7 years
+      - JavaScript     5 years
+      - React          3 years
+      - Node           3 years
+      - React Native   1 year
+      - HTML5/SASS     6 years
+      - Next JS        1 year
+      - PostgreSQL     4 years
+      - MongoDB        2 years
+      - Docker         1 year
 
   - title: Strengths & Skills
     layout: text
@@ -61,8 +62,10 @@ content:
   - title: Contributions
     layout: text
     content: |
-      - GraphQL (2022) | https://github.com/virtualshield/rails-graphql
-      - Torque Postgres (2021) | https://github.com/crashtech/torque-postgresql
+      - GraphQL (2022)
+      https://github.com/virtualshield/rails-graphql
+      - Torque Postgres (2021)
+      https://github.com/crashtech/torque-postgresql
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
