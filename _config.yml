@@ -34,16 +34,16 @@ content:
   - title: Proficiency Stacks
     layout: text
     content: |
-      - Ruby on Rails  | 7 years
-      - JavaScript     | 5 years
-      - React          | 3 years
-      - Node           | 3 years
-      - React Native   | 1 year
-      - HTML5/SASS     | 6 years
-      - Next JS        | 1 year
-      - PostgreSQL     | 4 years
-      - MongoDB        | 2 years
-      - Docker         | 1 year
+      - Ruby on Rails 7 years
+      - JavaScript    5 years
+      - React         3 years
+      - Node          3 years
+      - React Native  1 year
+      - HTML5/SASS    6 years
+      - Next JS       1 year
+      - PostgreSQL    4 years
+      - MongoDB       2 years
+      - Docker        1 year
 
   - title: Strengths & Skills
     layout: text
@@ -64,17 +64,16 @@ content:
     layout: text
     content: |
       - GraphQL (2022)
-      https://github.com/virtualshield/rails-graphql
+    url: https://github.com/virtualshield/rails-graphql
 
       - Torque Postgres (2021)
-      https://github.com/crashtech/torque-postgresql
+    url: https://github.com/crashtech/torque-postgresql
 
   - title: Experience
     layout: list
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: CTech(Software house company) (Full-time)
         sub_title: Web Full Stack Developer
         caption: October/2018 - Present
         description: |
@@ -95,15 +94,15 @@ content:
         caption: 01/2023 - 12/2023
         sub_title: Project Manager[MBA]
 
-    content:
-        title: Pontifícia Universidade Católica de São Paulo
-        caption: 06/2016 - 06/2018
-        sub_title: Software Engineering[Post-Graduate]
+    # content:
+    #     title: Pontifícia Universidade Católica de São Paulo
+    #     caption: 06/2016 - 06/2018
+    #     sub_title: Software Engineering[Post-Graduate]
 
-    content:
-        title: Universidade Nove de Julho
-        caption: 01/2011 - 12/2014
-        sub_title: Game Development[Graduate]
+    # content:
+    #     title: Universidade Nove de Julho
+    #     caption: 01/2011 - 12/2014
+    #     sub_title: Game Development[Graduate]
 
   - title: Certification
     layout: text
