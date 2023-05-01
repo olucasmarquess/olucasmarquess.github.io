@@ -63,11 +63,8 @@ content:
   - title: Contributions
     layout: text
     content: |
-      - GraphQL (2022)
-    url: https://github.com/virtualshield/rails-graphql
-
-      - Torque Postgres (2021)
-    url: https://github.com/crashtech/torque-postgresql
+      - GraphQL (2022) - https://github.com/virtualshield/rails-graphql
+      - Torque Postgres (2021) - https://github.com/crashtech/torque-postgresql
 
   - title: Experiences
     layout: list
@@ -111,9 +108,9 @@ content:
         sub_title: Developer Analyst
         caption: Jun/2014 - Oct/2016
         description: |
-            -I Developed MPS and Outsourcing projects in all stages, planning, open announcement, and technological development.
-            -I gave lectures all over Brazil about technology and software.
-            -I Developed a system for printers based on Ruby and Sinatra that generated XML that the printers used to create menus and perform operations.
+            - I Developed MPS and Outsourcing projects in all stages, planning, open announcement, and technological development.
+            - I gave lectures all over Brazil about technology and software.
+            - I Developed a system for printers based on Ruby and Sinatra that generated XML that the printers used to create menus and perform operations.
 
 
   - title:
@@ -130,9 +127,9 @@ content:
   - title: Education
     layout: text
     content: |
-        Project Manager[MBA] - Universidade Municipal de São Caetano do Sul 01/2023 - 12/2023
-        Software Engineering[Post-Graduate] - Pontifícia Universidade Católica de São Paulo - 06/2016 - 06/2018
-        Game Development[Graduate] - Universidade Nove de Julho - 01/2011 - 12/2014
+        - Project Manager[MBA] - Universidade Municipal de São Caetano do Sul 01/2023 - 12/2023
+        - Software Engineering[Post-Graduate] - Pontifícia Universidade Católica de São Paulo - 06/2016 - 06/2018
+        - Game Development[Graduate] - Universidade Nove de Julho - 01/2011 - 12/2014
 
   - title: Certification
     layout: text
