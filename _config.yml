@@ -75,7 +75,7 @@ content:
       - layout: left
         title: CTech(Software house company) (Full-time)
         sub_title: Web Full Stack Developer
-        caption: October/2018 - Present
+        caption: Oct/2018 - Present
         description: |
             I developed and maintained some websites, systems, and applications for companies abroad(I worked with Rails on Rails, GraphQL, Javascript, React, PostgreSQL):
               -	It`s CheckMate (https://itsacheckmate.com) (API)
@@ -86,6 +86,19 @@ content:
               -	Smart Patients (https://www.smartpatients.com) (FrontEnd)
               -	VirtualShield (https://virtualshield.com) (Front and Back)
               -	Lawmatics(https://www.lawmatics.com) (Backend)
+
+
+  - title:
+    layout: list
+    content:
+      - layout: left
+        title: VITS (Part-time)
+        sub_title: Web Full Stack Developer
+        caption: Oct/2018 - Jan/2023
+        description: |
+            -	As a partner, I could actively participate in a startup's routine in all aspects. I participated in all business decision-making, strategies plannings, and product development.
+            -	I Developed an application with Ruby on Rails, Postgres, React, and Semantic UI, to help students to find teachers for English classes. I worked on that project from beginning to end.
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
