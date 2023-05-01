@@ -69,11 +69,11 @@ content:
       - Torque Postgres (2021)
     url: https://github.com/crashtech/torque-postgresql
 
-  - title: Experience
+  - title: Experiences
     layout: list
     content:
       - layout: left
-        title: CTech(Software house company) (Full-time)
+        title: CTech
         sub_title: Web Full Stack Developer
         caption: Oct/2018 - Present
         description: |
@@ -92,6 +92,34 @@ content:
     layout: list
     content:
       - layout: left
+        title: VITS
+        sub_title: Web Full Stack Developer
+        caption: Oct/2018 - Jan/2023
+        description: |
+            - I had contact with several projects and technologies and I was able to experience in practice all the processes that a
+            - company needs from the foundation to launch.
+            - I Developed an application with Ruby on Rails, MongoDB, JavaScript, and Bootstrap. Like IFOOD, but it worked for companies and not users. In that one, I worked consuming APIs and making system improvements everywhere.
+            - I Developed an application with Rails on rails, PostgreSQL, and JavaScript to make quotations of medicines and send the best option to the client.
+            - I Developed an application with Rails on rails, PostgreSQL, Material Design, and React. That app connected influencer to people who want to advertise specific products or services.
+
+
+  - title:
+    layout: list
+    content:
+      - layout: left
+        title: Brother International
+        sub_title: Developer Analyst
+        caption: Jun/2014 - Oct/2016
+        description: |
+            -I Developed MPS and Outsourcing projects in all stages, planning, open announcement, and technological development.
+            -I gave lectures all over Brazil about technology and software.
+            -I Developed a system for printers based on Ruby and Sinatra that generated XML that the printers used to create menus and perform operations.
+
+
+  - title:
+    layout: list
+    content:
+      - layout: left
         title: VITS (Part-time)
         sub_title: Web Full Stack Developer
         caption: Oct/2018 - Jan/2023
@@ -99,23 +127,12 @@ content:
             -	As a partner, I could actively participate in a startup's routine in all aspects. I participated in all business decision-making, strategies plannings, and product development.
             -	I Developed an application with Ruby on Rails, Postgres, React, and Semantic UI, to help students to find teachers for English classes. I worked on that project from beginning to end.
 
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-        title: Universidade Municipal de São Caetano do Sul
-        caption: 01/2023 - 12/2023
-        sub_title: Project Manager[MBA]
-
-    # content:
-    #     title: Pontifícia Universidade Católica de São Paulo
-    #     caption: 06/2016 - 06/2018
-    #     sub_title: Software Engineering[Post-Graduate]
-
-    # content:
-    #     title: Universidade Nove de Julho
-    #     caption: 01/2011 - 12/2014
-    #     sub_title: Game Development[Graduate]
+  - title: Education
+    layout: text
+    content: |
+        Project Manager[MBA] - Universidade Municipal de São Caetano do Sul 01/2023 - 12/2023
+        Software Engineering[Post-Graduate] - Pontifícia Universidade Católica de São Paulo - 06/2016 - 06/2018
+        Game Development[Graduate] - Universidade Nove de Julho - 01/2011 - 12/2014
 
   - title: Certification
     layout: text
